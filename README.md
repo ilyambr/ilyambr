@@ -1,6 +1,6 @@
 # ilyambr.me
 
-im ngl, i make my websites on wix and put them onto github pages 
+"vibe" coder or whatever its called...
 <!--
 **ilyambr/ilyambr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
